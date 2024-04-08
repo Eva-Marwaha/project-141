@@ -1,0 +1,42 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    stroke: palevioletred;
+}
+
+.heading h3
+{
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    stroke: lightgreen;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    stroke: grey;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start, #status
+{
+    font-size: 22px;
+    stroke: aquamarine;
+}
+
+.restart button
+{
+    float: left;
+    border: 2px solid rebeccapurple;
+    stroke: lavenderblush;
+}
+
+
